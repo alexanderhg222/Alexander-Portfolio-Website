@@ -111,6 +111,10 @@ h1,h2,h3{
     display: grid;
 }
 
+.home{
+    padding-left: 2rem;
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .section{
     padding: 6.5rem 0 2rem;
