@@ -75,6 +75,7 @@
      font-size: var(--normal-font-size);
  }
  body{
+     scroll-behavior: smooth;
      background-color: var(--body-color);
      color: var(--text-color);
  }
