@@ -221,7 +221,7 @@ h1,h2,h3{
 }
 /*===== Home Section =====*/
 .home{
-    background: url('/assets/img/home-bg.jpg');
+    background: url('/assets/img/home-bg3.jpg');
     background-size: cover;
     background-position: center center;
     height: 100vh;
